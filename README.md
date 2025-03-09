@@ -4,8 +4,16 @@
 # Several techniques exist for assessing normality, such as graphical methods and statistical tests. Graphical methods, histograms and Q-Q plots, provide a visual interpretation of the data’s distribution, while formal statistical tests offer quantitative measures. The most commonly used normality tests include the Shapiro-Wilk test, the Kolmogorov-Smirnov test, the Anderson-Darling test, and the Jarque-Bera test. This tutorial provides a comprehensive guide to various normality testing methods, their mathematical foundations and how to implement them in R. 
 
 # Graphical Mehtods 
+
 # GGPLOT
+  # Methodology
+  # Examples
+  # R Implemination
+  
 # Chi Square Test
+  # Methodology
+  # Examples
+  # R Implemination
 
 
 
@@ -22,7 +30,13 @@
   # R Implemination
 
 # Anderson-Darling test
+  # Methodology
+  # Examples
+  # R Implemination
 
 # Jarque-Bera test
+  # Methodology
+  # Examples
+  # R Implemination
 
 # 
